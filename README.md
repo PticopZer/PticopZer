@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### My name is Franck, 
+
+- 🔭 I’m currently working and exploring the world of Web 3.0 and the Solidity Language. 
+- 🌱 I’m currently learning the Tezos blockchain ( French one ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France") )
+- 💬 Do not hesitate to launch the discussion
+- 📫 How to reach me: Linkedin : https://www.linkedin.com/in/franckayouaz/ or Mail : franck.ayouaz@gmail.com
+- 😄 Pronouns: QueFran
+- ⚡ Fun fact: I discovered so many different programmation language, it's time to choose one
+  > I can't.. 
 <!--
 **PticopZer/PticopZer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
